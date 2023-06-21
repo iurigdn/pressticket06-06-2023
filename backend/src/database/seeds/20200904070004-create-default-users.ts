@@ -7,7 +7,7 @@ module.exports = {
       [
         {
           name: "Press-Ticket",
-          email: "admin@pressticket.com.br",
+          email: "a1d2m3i4n@avantchat.com.br",
           passwordHash: "$2a$08$WaEmpmFDD/XkDqorkpQ42eUZozOqRCPkPcTkmHHMyuTGUOkI8dHsq",
           profile: "admin",
           tokenVersion: 0,
